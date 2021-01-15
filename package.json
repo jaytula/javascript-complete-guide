@@ -1,0 +1,22 @@
+{
+  "name": "javascript-complete-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaytula/javascript-complete-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaytula/javascript-complete-guide/issues"
+  },
+  "homepage": "https://github.com/jaytula/javascript-complete-guide#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
